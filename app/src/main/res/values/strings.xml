@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="kimiagar">کیمیاگر</string>
+    <string name="paul">پائولو کوئیلو</string>
+    <string name="_90_000">90,000 تومان</string>
+    <string name="nime">نیمه تاریک وجود</string>
+    <string name="debi">دبی فورد</string>
+    <string name="midnight">کتابخانه نیمه شب</string>
+    <string name="matt">مت هیگ</string>
+    <string name="_80_000">80,000 تومان</string>
+    <string name="_60_000">60,000 تومان</string>
+    <string name="writer1">نویسنده:</string>
+    <string name="genre1">ژانر:</string>
+    <string name="year1">سال:</string>
+    <string name="translator1">مترجم:</string>
+    <string name="price1">قیمت:</string>
+</resources>
